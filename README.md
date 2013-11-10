@@ -5,4 +5,6 @@ a virtual exchange with many exchange protocols (ITCH, FIX, FAST FIX, UTP ...)
 
 -testing Gh
 
--project closed 
+-project not  yet closed 
+
+
