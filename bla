@@ -1,0 +1,240 @@
+    1  git help git
+    2  J
+    3  J:
+    4  cd J:
+    5  ll
+    6  dir
+    7  ls
+    8  cd GIT
+    9  ll
+   10  git clone https://github.com/BilelBouzayani/VirtualExchange.git
+   11  ll
+   12  ls
+   13  cd VirtualExchange/
+   14  ll
+   15  ll
+   16  ls
+   17  ls -ail
+   18  ll
+   19  alias ll = "ls -ail"
+   20  alias ll="ls -ail"
+   21  ll
+   22  vi INSTALL 
+   23  vi README.md 
+   24  git diff
+   25  ll
+   26  git added README.md
+   27  git add README.md
+   28  ll
+   29  stats
+   30  git stat
+   31  git status
+   32  git commit -m 'modified by bouzayani bilel"
+   33  git commit -m 'modified by bouzayani bilel'
+   34  git config --global user.email "bouzayanibilel@live.fr"
+   35  git config --global user.name "BilelBouzayani"
+   36  git commit -m 'modified by bouzayani bilel'
+   37  git remote add origin https://github.com/BilelBouzayani/VirtualExchange.git
+   38  history
+   39  git push origin master
+   40  git config --global user.name "BilelBouzayani"
+   41  git config --global user.email "bouzayanibilel@live.fr"
+   42  git remote add origin https://github.com/BilelBouzayani/VirtualExchange.git
+   43  git push origin master
+   44  git remote add origin https://github.com/BilelBouzayani/VirtualExchange.git
+   45  git push origin master
+   46  history
+   47  history > ../help.txt
+   48  ll
+   49  git pull
+   50  vi README.md 
+   51  rm -f README.md 
+   52  git pull
+   53  ll
+   54  git pull
+   55  cd ..
+   56  rm -rf VirtualExchange/
+   57  ll
+   58  git clone https://github.com/BilelBouzayani/VirtualExchange.git
+   59  cd VirtualExchange/
+   60  vi README.md 
+   61  git status
+   62  git diff
+   63  git commit -m 'modified by bouzayani bilel'
+   64  git config --global user.email "bouzayanibilel@live.fr"
+   65  git config --global user.name "BilelBouzayani"
+   66  git remote add origin https://github.com/BilelBouzayani/VirtualExchange.git
+   67  git push origin master
+   68  history
+   69  vi README.md 
+   70  git status
+   71  vi README.md 
+   72  git add README.md
+   73  vi README.md 
+   74  vi README.md 
+   75  git add README.md
+   76  git commit -m 'modified by bouzayani bilel'
+   77  git status
+   78  git push origin master
+   79  ll
+   80  ll
+   81  git pull
+   82  ll
+   83  vi README.md 
+   84  git status
+   85  git commit
+   86  git status
+   87  git add README.md
+   88  git status
+   89  git push
+   90  git push 
+   91  git pull
+   92  ll
+   93  vi README.md 
+   94  git add README.md
+   95  git commit -m "last"
+   96  git push
+   97  git pull
+   98  vi README.md 
+   99  git status
+  100  git add README.md
+  101  git status
+  102  git commit -m "change on the README"
+  103  git push origin master
+  104  ll
+  105  git pull
+  106  vi configure
+  107  ll
+  108  git styatus
+  109  gi status
+  110  git status
+  111  git add configure
+  112  git status
+  113  git commit -m "bolbol"
+  114  git status
+  115  git reset
+  116  git status
+  117  cat configure 
+  118  git push origin master
+  119  git push origin master
+  120  git pull
+  121  ll
+  122  vi configure 
+  123  git status
+  124  git add configure
+  125  git commit -m "boubou"
+  126  git commit --amend
+  127  git status
+  128  git commit --amend
+  129  git status
+  130  git push origin master
+  131  mkdir log
+  132  cd log
+  133  ll
+  134  vi bla
+  135  vi bla1
+  136  ll
+  137  cd ..
+  138  git add log/*
+  139  git status
+  140  git commit -m "new direcotry and files"
+  141  git push origin master
+  142  git push origin master
+  143  git pull
+  144  mv log/bla1 .
+  145  git mv log/bla1 bla1
+  146  git status
+  147  git rm log/bla1
+  148  ll
+  149  git add bla1
+  150  ll
+  151  git status
+  152  git push origin master
+  153  git status
+  154  git status
+  155  ll
+  156  vi bla1 
+  157  git push origin status
+  158  git push origin master
+  159  git status
+  160  git add bla1
+  161  ll
+  162  git commit -m "move"
+  163  git push
+  164  git push origin master
+  165  git mv log/bla bla
+  166  git status
+  167  git commit -m "mv"
+  168  git push origin master
+  169  git checkout branch2
+  170  git checkout master
+  171  git checkout -b bilel
+  172  ll
+  173  vi bla
+  174  git status
+  175  git add bla
+  176  git commit -a -m "new branch"
+  177  git push origin bilel
+  178  git commit help
+  179  git commit --help
+  180  git checkout --help
+  181  git show-branch
+  182  history
+  183  git push origin bilel
+  184  git status
+  185  ll
+  186  vi configure 
+  187  git status
+  188  git checkout master
+  189  git status
+  190  git checkout bilel
+  191  ll
+  192  git add configure
+  193  git status
+  194  git commit -m "change on bilel branch"
+  195  git push origin bilel
+  196  git pull origin bilel
+  197  git status
+  198  ll
+  199  cat configure 
+  200  git status
+  201  git checkout master
+  202  git pull
+  203  cat configure 
+  204  vi README.md 
+  205  git status
+  206  git add README.md
+  207  git status
+  208  git reset HEAD README.md
+  209  git status
+  210  git checkout
+  211  git status
+  212  cat README.md 
+  213  git pull origin master
+  214  cat README.md 
+  215  git status
+  216  git checkout README.md
+  217  git status
+  218  cat README.md 
+  219  vi README.md 
+  220  git add README.md
+  221  ll7
+  222  ll
+  223  git status
+  224  commit -M "bilel bouzayani check the reset"
+  225  git commit -M "bilel bouzayani check the reset"
+  226  git commit -m "bilel bouzayani check the reset"
+  227  git status
+  228  git commit
+  229  git pull
+  230  cat README.md 
+  231  git push origin master
+  232  git log
+  233  git log -p 1
+  234  git log -p -1
+  235  git log -p -2
+  236  ll
+  237  git history
+  238  gistory
+  239  history
+  240  history > bla
